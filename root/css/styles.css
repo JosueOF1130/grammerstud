@@ -1,3 +1,7 @@
 *, *::before, *::after {
     font-family: 'sono proportional regular'
 }
+
+nav, footer {
+    user-select: none;
+}
