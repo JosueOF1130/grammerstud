@@ -1,6 +1,5 @@
-.quotes-container {
-    max-width: 800px;
-}
-.carousel img {
-    border-radius: 20px
+.youtube-video {
+    border-radius: 20px;
+    max-width: 530px;
+    max-height: 285px;
 }

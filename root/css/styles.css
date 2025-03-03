@@ -1,5 +1,10 @@
 *, *::before, *::after {
-    font-family: 'sono proportional regular'
+    font-family: 'sono proportional regular';
+    /* border: 1px solid black; */
+}
+
+body {
+    background-color: #f7f4f3;
 }
 
 nav, footer {
